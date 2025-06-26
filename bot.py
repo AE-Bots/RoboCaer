@@ -1,4 +1,5 @@
 import random
 import discord
-
-Fuck
+import guilded
+import api
+import you know what sybau nigga I ain't doing shi
